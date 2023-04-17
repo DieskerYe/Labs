@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOVohhwShGtL2RHhoFSRZFycn2lX4l/V+qeZEG5S4z1tRBXhM2eVHaO17kjNSqUMcPL3EXEQk0T+bcut/jheog==",
+  "success": true,
+  "projectFilePath": "C:\\NET\\Unidad02\\Capitulo01\\LabSintaxis2\\LabSintaxis2\\LabSintaxis2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

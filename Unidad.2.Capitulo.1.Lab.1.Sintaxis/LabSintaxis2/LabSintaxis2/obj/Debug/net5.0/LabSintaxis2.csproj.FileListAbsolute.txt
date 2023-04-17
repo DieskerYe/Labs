@@ -1,0 +1,31 @@
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.AssemblyInfoInputs.cache
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.AssemblyInfo.cs
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.csproj.CoreCompileInputs.cache
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.exe
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.deps.json
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.runtimeconfig.json
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.runtimeconfig.dev.json
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.dll
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\ref\LabSintaxis2.dll
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.pdb
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.dll
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\ref\LabSintaxis2.dll
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.pdb
+C:\Net\LOTAR (NO TOCAR)\Unidad02\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.dll
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.pdb
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.exe
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.deps.json
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.dll
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.pdb
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\refint\LabSintaxis2.dll
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis2\obj\Debug\net5.0\ref\LabSintaxis2.dll

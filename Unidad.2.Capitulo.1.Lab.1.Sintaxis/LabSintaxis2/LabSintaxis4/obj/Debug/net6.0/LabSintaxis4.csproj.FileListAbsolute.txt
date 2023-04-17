@@ -1,0 +1,15 @@
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\bin\Debug\net6.0\LabSintaxis4.exe
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\bin\Debug\net6.0\LabSintaxis4.deps.json
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\bin\Debug\net6.0\LabSintaxis4.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\bin\Debug\net6.0\LabSintaxis4.dll
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\bin\Debug\net6.0\LabSintaxis4.pdb
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.dll
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\refint\LabSintaxis4.dll
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.pdb
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\LabSintaxis4.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\LabSintaxis2\LabSintaxis4\obj\Debug\net6.0\ref\LabSintaxis4.dll
